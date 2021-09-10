@@ -1,6 +1,8 @@
-# A TypeScript / Node.js template on Gitpod
+# A TypeScript / Node.js template on Gitpod, with Tabnine enabled
 
 This is a [TypeScript / Node.js](https://github.com/microsoft/TypeScript-Node-Starter) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+
+Please note, this project has [Tabnine](https://www.tabnine.com/)'s AI-assisted code completion configured.
 
 ## Next Steps
 
